@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - stair
+  - Enermy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Stair
+  - Player
+  - BackGround
+  - Bouncing
+  - Enermy
+  - Hazard
+  - Bullet
+  - Exit
+  - interactive
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1517131057
+    locked: 0
+  - name: exit
+    uniqueID: 2657772753
+    locked: 0
+  - name: Platform
+    uniqueID: 2655801699
+    locked: 0
+  - name: water
+    uniqueID: 1521677793
+    locked: 0
+  - name: stair
+    uniqueID: 1687011457
+    locked: 0
+  - name: Hazard
+    uniqueID: 2052404821
+    locked: 0
+  - name: interactive
+    uniqueID: 500483475
+    locked: 0
+  - name: Enermies
+    uniqueID: 3061939971
+    locked: 0
+  - name: player
+    uniqueID: 4285389765
+    locked: 0
